@@ -4,10 +4,10 @@ import streamlit as st
 from tarification import calculer_prime_auto
 
 # Configuration de la page avec un titre sympa
-st.set_page_config(page_title="simulateur-tarification-auto", page_icon="🚗", layout="centered")
+st.set_page_config(page_title="simulateur-Assurance-Assurily", page_icon="🚗", layout="centered")
 
 # Titre principal de l'application (style épuré)
-st.title("🚗 simulateur-tarification-auto")
+st.title("🚗 simulateur-Assurance-Assurily")
 st.write("Obtenez une estimation de votre prime d'assurance automobile en quelques clics avant de finaliser votre contrat en agence.")
 
 st.markdown("---")
